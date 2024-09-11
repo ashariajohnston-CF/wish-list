@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Update NeedIt Records">21725946832896103038b6cfeeaad355</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"f84b1bdd900140c396c0ddad8f9d0db4","variable_name":"needit_list","nlu_entity":"","nlu_entity_label":""},{"node_id":"0147ea294e4f4b2d89812c86ea405c9e","variable_name":"search_again","nlu_entity":"","nlu_entity_label":""},{"node_id":"b95c0b60c7c649a1b11bbe0f5d4ebb95","variable_name":"new_when_needed_date","nlu_entity":"","nlu_entity_label":""},{"node_id":"1e2115a44e354969815c1446e229cd0d","variable_name":"new_short_description","nlu_entity":"","nlu_entity_label":""},{"node_id":"ec6cdafb3c054d4f8e339eb03e839c8b","variable_name":"what_to_update","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent>UpdateChangeRequest</nlu_intent>
+        <nlu_intent_label>UpdateChangeRequest</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 08:39:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f537510e832896103038b6cfeeaad3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1399793_needit_v">a5f05182832896103038b6cfeeaad3ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">a5f05182832896103038b6cfeeaad3ed</sys_scope>
+        <sys_update_name>sys_cb_topic_language_f537510e832896103038b6cfeeaad3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 10:14:00</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>
